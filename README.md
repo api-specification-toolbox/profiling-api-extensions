@@ -1,2 +1,6 @@
-# profiling-api-extensions
-This is a project for profiling all of the api extensions for OpenAPI, AsyncAPI, and JSON Schema.
+# Profiling API Extensions
+This is a project for profiling all of the api extensions for OpenAPI, AsyncAPI, and JSON Schema. There are a growing number of extensions, specifically for the OpenAPI specification, and there is no formal effort to be tracking on them in any meaningful way. This project is meant to encourage the community to help build a machine readable list of what extensions are available, and add them to the [API Specification Toolbox](http://api.specificationtoolbox.com/).
+
+We are just getting started with this work. We have begun defining some of the extensions already, but we need to find new providers, as well as continue to document all of the existing ones we've identified. We will be using [the Semoasa specification](http://api.specificationtoolbox.com/specifications/semoasa/) to define extensions, augmenting each of the extension entries with a new common standard tailored just for specifications.
+
+We are using this README to manage this project, and Github issues to manage the conversation and all of the work that occurs around defining all of the areas of this work. If you have any contributions feel free to submit an issue or a pull request on this project, or any other in the API Specification toolbox, including the toolbox itself.
